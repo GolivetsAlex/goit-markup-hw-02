@@ -1,7 +1,7 @@
 body {
-  font-family: "Roboto", "sans-serif";
-  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #FFFFFF;
 }
 
 .title-span-studio {
@@ -15,14 +15,13 @@ body {
   color: #2e2f42;
 }
 .header-logo {
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
+ font-family: "Raleway", sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ color: #4d5ae5;
 }
 .studio-header-first {
   color: #2e2f42;
