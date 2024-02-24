@@ -3,6 +3,7 @@ body {
   color: #434455;
   background-color: #FFFFFF;
 }
+a {text-decoration: none}
 
 .title-span-studio {
   font-family: "Raleway", sans-serif;
@@ -38,3 +39,20 @@ body {
 .header-menu-link:hover {
   color: #404bbf;
 }
+.header-menu-link:focus {
+  color: #404bbf;
+}
+.header-adress-all { 
+  font-style: normal;
+}
+.header-adress-info {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.header-adress-info:hover {
+  color: #404bbf;
+}
+.header-adress-info:focus {
+color: #404bbf;}
