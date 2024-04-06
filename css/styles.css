@@ -56,3 +56,21 @@ a {text-decoration: none}
 }
 .header-adress-info:focus {
 color: #404bbf;}
+.solution-section {
+background-color:#2e2f42;}
+.sol-paragraph{
+  font-style: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+.sec-but{
+  display: block;
+  padding: 16px 32px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15)
+}
