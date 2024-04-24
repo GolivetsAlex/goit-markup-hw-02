@@ -65,15 +65,6 @@ background-color:#2e2f42;}
   letter-spacing: 0.02em;
   color: #FFFFFF;
 }
-.sec-but{
-  display: block;
-  padding: 16px 32px;
-  border-radius: 4px;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15)
-}
 .solution-section{
   color: #2e2f42;
 }
@@ -84,3 +75,10 @@ background-color:#2e2f42;}
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+.primary-button {
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}s
